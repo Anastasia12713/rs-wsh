@@ -1,2 +1,6 @@
 some text for heder
-Changes from 'master' - new change
+Changes from 'master' 
+changes from 'first'
+
+Text from master: new change!!!
+
